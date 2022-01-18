@@ -1,4 +1,4 @@
-Basic implementation of flyweight design pattern with object pool.
+Basic implementation of flyweight, factory, prototype, design pattern with object pool.
 
 Click on mouse as much as you can.
 
